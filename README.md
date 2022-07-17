@@ -1,5 +1,5 @@
-## Yeshiva Schools
-# Houk's Math and Computer Science
+# Yeshiva Schools
+## Houk's Math and Computer Science
 
 You can use the [editor on GitHub](https://github.com/houk-classroom/houk-classroom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
